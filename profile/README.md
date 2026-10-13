@@ -40,10 +40,10 @@ Nuestra versatilidad nos permite construir desde robustas aplicaciones de escrit
 ### 📂 Portafolio y Muestras Estáticas (Showcase)
 Explora algunos de nuestros proyectos, maquetas y entornos de prueba desplegados en vivo:
 
-* 🌐 **Dev Showcase / Pruebas de Desarrollo:** <a href="https://github.io" target="_blank">amnavarrodev.github.io/dev</a>
-* 🏡 **Eco Hogar:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/eco-hogar</a>
-* 🐾 **Eco Mascotas:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/eco-mascotas</a>
-* 🔨 **CMS Remates:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/cms-remates</a>
+* 🌐 **Dev Showcase / Pruebas de Desarrollo:** <a href="https://amnavarrodev.github.io/dev" target="_blank">amnavarrodev.github.io/dev</a>
+* 🏡 **Eco Hogar:** <a href="https://alto-codigo-studio.github.io/eco-hogar" target="_blank">alto-codigo-studio.github.io/eco-hogar</a>
+* 🐾 **Eco Mascotas:** <a href="https://alto-codigo-studio.github.io/eco-mascotas" target="_blank">alto-codigo-studio.github.io/eco-mascotas</a>
+* 🔨 **CMS Remates:** <a href="https://alto-codigo-studio.github.io/cms-remates" target="_blank">alto-codigo-studio.github.io/cms-remates</a>
 
 ---
 
