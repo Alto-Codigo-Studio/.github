@@ -1,38 +1,52 @@
 # ¡Hola! Somos Alto Codigo Studio 🚀
 
-Bienvenido al espacio de trabajo de **Alto Codigo Studio**. Somos una startup especializada en el diseño, desarrollo e implementación de **soluciones informáticas a medida**. Transformamos ideas complejas en software escalable, eficiente y centrado en la experiencia del usuario.
+Bienvenido al espacio de trabajo de **Alto Codigo Studio**. Somos una startup especializada en el diseño, desarrollo, auditoría e implementación de **soluciones informáticas a medida**. 
 
-Nuestra misión es impulsar el crecimiento de negocios y emprendimientos mediante tecnología de vanguardia, adaptándonos estrictamente a las necesidades y objetivos de cada cliente.
+Nuestra versatilidad nos permite construir desde robustas aplicaciones de escritorio empresariales hasta modernas plataformas web, APIs escalables y ecosistemas descentralizados en Blockchain (Web3). Transformamos necesidades complejas en software eficiente, seguro y de alto rendimiento.
 
 ---
 
-### 💻 Lo que hacemos
-* **Desarrollo de Software a Medida:** Sistemas de gestión, automatización de procesos y plataformas corporativas.
-* **Aplicaciones Web y Móviles:** Interfaces intuitivas, modernas y de alto rendimiento.
-* **Integración de API y Microservicios:** Conectamos tus herramientas para un flujo de información unificado y seguro.
-* **Consultoría Tecnológica:** Asesoría estratégica para la arquitectura de tus proyectos digitales.
+### 💻 Nuestras Especialidades y Servicios
+* **Software de Escritorio y Soluciones Empresariales:** Herramientas de escritorio robustas y de alta velocidad con conectividad optimizada a bases de datos relacionales.
+* **Desarrollo Web y Tiendas Online:** Plataformas web a medida, e-commerce modernos y renderizado optimizado para buscadores.
+* **APIs y Microservicios:** Arquitecturas backend modulares, seguras y altamente escalables.
+* **Soluciones Blockchain y Web3:** Desarrollo de Aplicaciones Descentralizadas (dApps), programación de Contratos Inteligentes y tokens.
+* **Seguridad y Aseguramiento:** Auditorías de código, revisiones técnicas avanzadas y refactorización de sistemas existentes.
 
 ---
 
 ### 🛠️ Nuestro Stack Tecnológico
-* *(¡Configura esta sección arrastrando o escribiendo las tecnologías que domina tu equipo!)*
-* **Frontend:** HTML5, CSS3, JavaScript / TypeScript, React, Next.js
-* **Backend:** Node.js, Python, Express, NestJS
-* **Bases de Datos:** PostgreSQL, MongoDB, MySQL
-* **DevOps / Infraestructura:** Docker, GitHub Actions, AWS / Vercel
+
+#### 🖥️ Desktop & Enterprise
+* **Lenguajes y Frameworks:** Delphi
+* **Acceso a Datos:** FireDAC
+
+#### 🌐 Web, Frontend & Backend
+* **Frontend:** HTML5, CSS3, JavaScript / TypeScript, Next.js, EJS (Embedded JavaScript templates)
+* **Backend:** Node.js, Express, NestJS
+* **ORM:** Prisma
+
+#### 🛢️ Bases de Datos e Infraestructura
+* **Relacionales:** MySQL, PostgreSQL
+* **NoSQL:** MongoDB
+* **Contenedores:** Docker
+
+#### ⛓️ Web3 & Blockchain (Smart Contracts)
+* **Lenguajes:** Solidity
+* **Entornos de Desarrollo:** Remix IDE (Ethereum)
 
 ---
 
 ### 🤝 Normas de Colaboración Interna
 Para mantener nuestro código limpio, organizado y avanzar al máximo potencial de nuestro equipo:
-* **Uso de Ramas:** Nunca trabajamos directamente sobre `main`. Creamos ramas descriptivas como `feature/nueva-funcion` o `bugfix/correccion-error`.
-* **Commits Semánticos:** Intentamos usar mensajes de commit claros (ej. `feat: agregar pasarela de pago`, `fix: corregir error en login`).
-* **Comunicación Externa:** Si eres cliente o partner externo y quieres reportar un bug o solicitar asistencia, por favor abre un *Issue* en el repositorio correspondiente.
+* **Uso de Ramas:** Nunca trabajamos directamente sobre `main`. Creamos ramas descriptivas como `feature/nueva-funcion`, `bugfix/correccion-error` o `audit/revision-codigo`.
+* **Commits Semánticos:** Intentamos usar mensajes de commit claros (ej. `feat: agregar componente ejs`, `fix: corregir conexion firedac`, `feat: implementar smart contract`).
+* **Calidad de Código:** Dado que realizamos auditorías y desarrollo Web3, todo código antes de ser fusionado debe pasar por una revisión exhaustiva de seguridad y buenas prácticas.
 
 ---
 
 ### 📩 Contacto y Redes
-¿Tienes un proyecto en mente o quieres formar parte de nuestras soluciones? ¡Hablemos!
+¿Tienes un proyecto en mente, necesitas una auditoría de software o quieres colaborar con nosotros? ¡Hablemos!
 
 * 📧 **Correo Electrónico:** contacto@altocodigo.studio *(o tu correo actual)*
 * 🌐 **Sitio Web:** [En construcción / Tu enlace aquí]
@@ -40,5 +54,5 @@ Para mantener nuestro código limpio, organizado y avanzar al máximo potencial 
 
 ---
 <p align="center">
-  <b>Alto Codigo Studio</b> • Construyendo el futuro del software a medida.
+  <b>Alto Codigo Studio</b> • Construyendo el futuro del software a medida, desde el escritorio hasta la Blockchain.
 </p>
