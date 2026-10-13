@@ -24,7 +24,7 @@ Nuestra versatilidad nos permite construir desde robustas aplicaciones de escrit
 #### 🌐 Web, Frontend & Backend
 * **Frontend:** HTML5, CSS3, JavaScript / TypeScript, Next.js, EJS (Embedded JavaScript templates)
 * **Backend:** Node.js, Express, NestJS
-* **ORM:** Prisma
+* **ORM:** Prisma, TypeORM
 
 #### 🛢️ Bases de Datos e Infraestructura
 * **Relacionales:** MySQL, PostgreSQL
