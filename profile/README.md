@@ -37,12 +37,31 @@ Nuestra versatilidad nos permite construir desde robustas aplicaciones de escrit
 
 ---
 
-### 📩 Contacto y Redes
+### 📂 Portafolio y Muestras Estáticas (Showcase)
+Explora algunos de nuestros proyectos, maquetas y entornos de prueba desplegados en vivo:
+
+* 🌐 **Dev Showcase / Pruebas de Desarrollo:** [amnavarrodev.github.io/dev](https://amnavarrodev.github.io/dev/)
+* 🏡 **Eco Hogar:** [alto-codigo-studio.github.io/eco-hogar](https://alto-codigo-studio.github.io/eco-hogar/)
+* 🐾 **Eco Mascotas:** [alto-codigo-studio.github.io/eco-mascotas](https://alto-codigo-studio.github.io/eco-mascotas/)
+* 🔨 **CMS Remates:** [alto-codigo-studio.github.io/cms-remates](https://alto-codigo-studio.github.io/cms-remates/)
+
+---
+
+### 🤝 Normas de Colaboración Interna
+Para mantener nuestro código limpio, organizado y avanzar al máximo potencial de nuestro equipo:
+* **Uso de Ramas:** Nunca trabajamos directamente sobre `main`. Creamos ramas descriptivas como `feature/nueva-funcion`, `bugfix/correccion-error` o `audit/revision-codigo`.
+* **Commits Semánticos:** Intentamos usar mensajes de commit claros (ej. `feat: agregar componente ejs`, `fix: corregir conexion firedac`, `feat: implementar smart contract`).
+* **Calidad de Código:** Dado que realizamos auditorías y desarrollo Web3, todo código antes de ser fusionado debe pasar por una revisión exhaustiva de seguridad y buenas prácticas.
+
+---
+
+### 📩 Contacto Corporativo
 ¿Tienes un proyecto en mente, necesitas una auditoría de software o quieres colaborar con nosotros? ¡Hablemos!
 
-* 📧 **Correo Electrónico:** altocodigostudio@gmail.com
-* 🌐 **Sitio Web:** https://altocodigostudio.com
-* 💼 **LinkedIn:** https://www.linkedin.com/company/alto-codigo-studio 
+* 🌐 **Sitio Web Oficial:** [www.altocodigostudio.com](https://www.altocodigostudio.com)
+* 💼 **LinkedIn:** [Alto Codigo Studio en LinkedIn](https://www.linkedin.com/company/alto-codigo-studio)
+* 📧 **Correo Electrónico:** [altocodigostudio@gmail.com](mailto:altocodigostudio@gmail.com)
+* 📱 **WhatsApp / Teléfono:** [+598 98 977 362](https://wa.me/59898977362)
 
 ---
 <p align="center">
