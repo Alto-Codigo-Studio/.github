@@ -40,10 +40,10 @@ Nuestra versatilidad nos permite construir desde robustas aplicaciones de escrit
 ### 📂 Portafolio y Muestras Estáticas (Showcase)
 Explora algunos de nuestros proyectos, maquetas y entornos de prueba desplegados en vivo:
 
-* 🌐 **Dev Showcase / Pruebas de Desarrollo:** [amnavarrodev.github.io/dev](https://amnavarrodev.github.io/dev/)
-* 🏡 **Eco Hogar:** [alto-codigo-studio.github.io/eco-hogar](https://alto-codigo-studio.github.io/eco-hogar/)
-* 🐾 **Eco Mascotas:** [alto-codigo-studio.github.io/eco-mascotas](https://alto-codigo-studio.github.io/eco-mascotas/)
-* 🔨 **CMS Remates:** [alto-codigo-studio.github.io/cms-remates](https://alto-codigo-studio.github.io/cms-remates/)
+* 🌐 **Dev Showcase / Pruebas de Desarrollo:** <a href="https://github.io" target="_blank">amnavarrodev.github.io/dev</a>
+* 🏡 **Eco Hogar:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/eco-hogar</a>
+* 🐾 **Eco Mascotas:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/eco-mascotas</a>
+* 🔨 **CMS Remates:** <a href="https://github.io" target="_blank">alto-codigo-studio.github.io/cms-remates</a>
 
 ---
 
@@ -58,10 +58,10 @@ Para mantener nuestro código limpio, organizado y avanzar al máximo potencial 
 ### 📩 Contacto Corporativo
 ¿Tienes un proyecto en mente, necesitas una auditoría de software o quieres colaborar con nosotros? ¡Hablemos!
 
-* 🌐 **Sitio Web Oficial:** [www.altocodigostudio.com](https://www.altocodigostudio.com)
-* 💼 **LinkedIn:** [Alto Codigo Studio en LinkedIn](https://www.linkedin.com/company/alto-codigo-studio)
-* 📧 **Correo Electrónico:** [altocodigostudio@gmail.com](mailto:altocodigostudio@gmail.com)
-* 📱 **WhatsApp / Teléfono:** [+598 98 977 362](https://wa.me/59898977362)
+* 🌐 **Sitio Web Oficial:** <a href="https://altocodigostudio.com" target="_blank">://altocodigostudio.com</a>
+* 💼 **LinkedIn:** <a href="https://linkedin.com" target="_blank">Alto Codigo Studio en LinkedIn</a>
+* 📧 **Correo Electrónico:** <a href="mailto:altocodigostudio@gmail.com" target="_blank">altocodigostudio@gmail.com</a>
+* 📱 **WhatsApp / Teléfono:** <a href="https://wa.me" target="_blank">+598 98 977 362</a>
 
 ---
 <p align="center">
