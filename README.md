@@ -37,20 +37,12 @@ Nuestra versatilidad nos permite construir desde robustas aplicaciones de escrit
 
 ---
 
-### 🤝 Normas de Colaboración Interna
-Para mantener nuestro código limpio, organizado y avanzar al máximo potencial de nuestro equipo:
-* **Uso de Ramas:** Nunca trabajamos directamente sobre `main`. Creamos ramas descriptivas como `feature/nueva-funcion`, `bugfix/correccion-error` o `audit/revision-codigo`.
-* **Commits Semánticos:** Intentamos usar mensajes de commit claros (ej. `feat: agregar componente ejs`, `fix: corregir conexion firedac`, `feat: implementar smart contract`).
-* **Calidad de Código:** Dado que realizamos auditorías y desarrollo Web3, todo código antes de ser fusionado debe pasar por una revisión exhaustiva de seguridad y buenas prácticas.
-
----
-
 ### 📩 Contacto y Redes
 ¿Tienes un proyecto en mente, necesitas una auditoría de software o quieres colaborar con nosotros? ¡Hablemos!
 
-* 📧 **Correo Electrónico:** contacto@altocodigo.studio *(o tu correo actual)*
-* 🌐 **Sitio Web:** [En construcción / Tu enlace aquí]
-* 💼 **LinkedIn:** [Enlace a tu página de empresa]
+* 📧 **Correo Electrónico:** altocodigostudio@gmail.com
+* 🌐 **Sitio Web:** https://altocodigostudio.com
+* 💼 **LinkedIn:** https://www.linkedin.com/company/alto-codigo-studio 
 
 ---
 <p align="center">
